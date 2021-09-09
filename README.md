@@ -4,6 +4,8 @@ Doctors are also able to log in and view their schedule and patient information 
 
 <img src="https://user-images.githubusercontent.com/69637288/129034625-814640be-0858-4693-89e1-3ab3963808d5.png" width="175" height="375">
 
+## Compatibility
+The target SDK version for this app is 30. UX is optimal on the Pixel 5.
 
 ## Contributors
 - Anindro Bhattacharya
