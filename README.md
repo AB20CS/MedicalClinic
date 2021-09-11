@@ -5,13 +5,13 @@ Doctors are also able to log in and view their schedule and patient information 
 <img src="https://user-images.githubusercontent.com/69637288/129034625-814640be-0858-4693-89e1-3ab3963808d5.png" width="175" height="375">
 
 ## Compatibility
-The target SDK version for this app is 30. UX is optimal on the Pixel 5.
+The target SDK version for this app is 30. UX is optimal on the Google Pixel 5.
 
 ## Tools/Software Used
 - Java
-- [Android Studio]
-- Firebase Database
-- Mockito _(for unit testing)_
+- [Android Studio](https://developer.android.com/studio)
+- [Firebase Database](https://firebase.google.com/)
+- [Mockito](https://site.mockito.org/) _(for unit testing)_
 
 ## Contributors
 - Anindro Bhattacharya
