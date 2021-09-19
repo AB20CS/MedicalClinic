@@ -17,5 +17,5 @@ The target SDK version for this app is 30. UX is optimal on the Google Pixel 5.
 - Anindro Bhattacharya
 - Saad Makrod (`saad.makrod@mail.utoronto.ca`)
 - Nimra Maqbool (`nimra.maqbool@mail.utoronto.ca`)
-- Mario Liao
+- Mario Liao (`mario.liao@mail.utoronto.ca`)
 - Denise Ou
